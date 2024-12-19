@@ -1,1 +1,1 @@
-# char-bot
+# chat-bot
